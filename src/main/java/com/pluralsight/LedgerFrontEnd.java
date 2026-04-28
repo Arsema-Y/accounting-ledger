@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 public class LedgerFrontEnd {
     static Scanner input = new Scanner(System.in);
+    static String userName;
 
     /*Steps
     1. Plan out page ☑️
-    2. Create Home Page Method
+    2. Create Home Page Method ☑️
     3. Create following methods
     4. Plan out back end page
     4. create backend functions
@@ -44,7 +45,7 @@ public class LedgerFrontEnd {
             }
 
             System.out.println("Enter your name: ");
-            String userName = input.nextLine();
+             userName = input.nextLine();
 
             System.out.println("Hello " + userName +",");
             System.out.println("With BitBook, you can   D - Add a Deposit\n" +
@@ -53,19 +54,21 @@ public class LedgerFrontEnd {
                                "                        X - Exit BitBook");
             char level2Screen = input.next().toUpperCase().charAt(0);
             switch(level2Screen){
-               case 'D' -> ;
-               case 'P' -> ;
-               case 'L' -> ;
-               case 'X' -> runHome = false;
-                  if(!runHome){
-                      System.out.println("Thank You for using BitBook.");
-                      System.out.println("\n\n H - Home");
-                      char Home = input.next().toUpperCase().charAt(0);
-                      if(Home == 'H'){
-                          runHome = true;
-                      }
-                  }
-             }
+               case 'D' -> runDepositScreen();
+               case 'P' -> runPaymentScreen();
+               case 'L' -> runLedgerScreen();
+                case 'X' -> {
+                    runHome = false;
+                    if(!runHome){
+                        System.out.println("Thank You for using BitBook.");
+                        System.out.println("\n\n H - Home");
+                        char Home = input.next().toUpperCase().charAt(0);
+                        if(Home == 'H'){
+                            runHome = true;
+                        }
+                    }
+                }
+            }
 
         }
     }
@@ -76,69 +79,69 @@ public class LedgerFrontEnd {
      * + H: Home - run Home method
      * + X: Exit
      */
-  private static void runDepositScreen(String userName){
-
+  private static void runDepositScreen(){
+      System.out.println("test");
  }
 }
 
 
   ///P: Make Payments (Debit) - loop: prompt user for debit information
     //  + save it to the transactions file
-private static void runPaymentScreen(String userName){
-
+private static void runPaymentScreen(){
+    System.out.println("test");
 
 }
 
 
    ///L: Ledger - shows options of display method
-private static void runLedgerScreen(String userName){
-
+private static void runLedgerScreen(){
+    System.out.println("test");
 
 }
 
       ///A: All - display all entries (newest - oldest)
-private static void runAllEnteriesScreen(String userName){
-
+private static void runAllEnteriesScreen(){
+    System.out.println("test");
 
 }
 
       ///D: Deposits - display only deposits into the account (positive values)
          //H: Home - back to Home method
          // + X: Exit
-private static void runDepoitsScreen(String userName){
-
+private static void runDepoitsScreen(){
+    System.out.println("test");
 
 }
 
      ///P: Payments - display the payments only (negative values)
        //H: Home - back to Home method
       // + X: Exit
-private static void runPaymentsScreen(String userName){
-
+private static void runPaymentsScreen(){
+    System.out.println("test");
 
 }
 
      ///R: Reports - shows option for display method
-private static void runReportsScreen(String userName){
-
+private static void runReportsScreen(){
+    System.out.println("test");
 
 }
 
           ///1: Month to date - start of current month till present day
-private static void runPresentMonthScreen(String userName){
-
+private static void runPresentMonthScreen(){
+    System.out.println("test");
 
 }
 
          ///2: Previous Month - month before present month (MM-1)
-private static void runLastMonthScreen(String userName){
-
+private static void runLastMonthScreen(){
+    System.out.println("test");
 
 }
 
          ///3: Year to Date - new year till present day
-private static void runPresentYearScreen(String userName){
-
+private static void runPresentYearScreen(){
+    System.out.println("test");
 
 }
 
@@ -146,8 +149,8 @@ private static void runPresentYearScreen(String userName){
           /*   + runs comparison with given name
           *   + displays matching entries
           */
-private static void runSearchScreen(String userName){
-
+private static void runSearchScreen(){
+    System.out.println("test");
 
 }
 
