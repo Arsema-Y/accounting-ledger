@@ -29,7 +29,8 @@ This diagram shows how to navigate through the different screens of the app:
 
 ## ✦ Home Screen
 The main hub of BitBOOK where you choose your starting path.
-> **[INSERT SCREENSHOT OF HOME SCREEN HERE]**
+> **[<img width="803" height="326" alt="image" src="https://github.com/user-attachments/assets/7eb1eaaa-2380-40bb-9f42-c7f2b8cd07e0" />
+]**
 
 ## ✦ Add Deposit / Payment
 Hands-on data entry with automatic date/time stamping (formatted to eliminate those pesky nanoseconds!) and a confirmation loop to ensure accuracy before saving to the file.
