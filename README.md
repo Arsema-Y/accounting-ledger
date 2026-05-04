@@ -53,4 +53,5 @@ Clean, table-style displays of your history. All entries are shown from **Newest
 Advanced logic to slice your data by Month, Year, or a specific keyword.
 - **Month/Year Filters:** Logic-based filtering using `LocalDate`.
 - **Global Search:** Finds matches across Vendors, Descriptions, or even specific Amounts.
-> **[INSERT SCREENSHOT OF SEARCH RESULTS HERE]**
+> **[<img width="753" height="326" alt="image" src="https://github.com/user-attachments/assets/95bfa0d7-a16e-44cb-9dae-8f151f86cce7" />
+]**
