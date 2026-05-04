@@ -46,6 +46,7 @@ Advanced logic to slice your data by Month, Year, or a specific keyword.
 - **Data Management:** File I/O using `BufferedReader` and `BufferedWriter` with CSV.
 - **Time Management:** `java.time` (LocalDate, LocalTime, DateTimeFormatter) for professional stamping.
 - **User Interface:** Console-based interaction using `Scanner` and dynamic formatting with `.repeat()`.
+- **AI:** clean up code, simplify the program, adding comments.
 
 ### ㅡ> How to Run
 1. Open the project in your IDE (IntelliJ).
