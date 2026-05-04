@@ -13,34 +13,31 @@ This diagram shows how to navigate through the different screens and the structu
 
 ### ✦ Welcome Screen
 Log in to begin navigating BitBook
-> **[<img width="803" height="326" alt="image" src="https://github.com/user-attachments/assets/7eb1eaaa-2380-40bb-9f42-c7f2b8cd07e0" /> ]**
+> <img width="751" height="326" alt="image" src="https://github.com/user-attachments/assets/55b7c6b9-5653-4de4-9d4f-fad966b6cf40" />
+
 
 ### ✦ Home Screen
 The main hub of BitBOOK where you choose your starting path.
-> **[<img width="717" height="378" alt="image" src="https://github.com/user-attachments/assets/54c999a9-a666-41da-9c19-cae2ff85cbe9" /> ]**
+> <img width="717" height="378" alt="image" src="https://github.com/user-attachments/assets/54c999a9-a666-41da-9c19-cae2ff85cbe9" /> 
 
 ### ✦ Add Deposit / Payment
 Hands-on data entry with automatic date/time stamping (formatted to eliminate those pesky nanoseconds!) and a confirmation loop to ensure accuracy before saving to the file.
-> **[
-<img width="767" height="384" alt="image" src="https://github.com/user-attachments/assets/f60fbc22-ebf0-458c-90bc-841e8adc71bd" />
-]**
+> <img width="767" height="384" alt="image" src="https://github.com/user-attachments/assets/f60fbc22-ebf0-458c-90bc-841e8adc71bd" />
 
 ### ✦ Ledger Views
 Clean, table-style displays of your history. All entries are shown from **Newest to Oldest** for easy tracking.
 - **All Entries:** Every single transaction in the file.
 - **Deposits:** Filtered for positive values only.
 - **Payments:** Filtered for negative values (debits).
-> **[<img width="743" height="321" alt="image" src="https://github.com/user-attachments/assets/8f4ce721-357d-4301-ac0b-a716a1362bdd" />
-]**
+> <img width="743" height="321" alt="image" src="https://github.com/user-attachments/assets/8f4ce721-357d-4301-ac0b-a716a1362bdd" />
 
 ### ✦ Report & Global Search
 Advanced logic to slice your data by Month, Year, or a specific keyword.
 - **Month/Year Filters:** Logic-based filtering using `LocalDate`.
-> **[<img width="753" height="326" alt="image" src="https://github.com/user-attachments/assets/95bfa0d7-a16e-44cb-9dae-8f151f86cce7" />
-]**
+> <img width="753" height="326" alt="image" src="https://github.com/user-attachments/assets/95bfa0d7-a16e-44cb-9dae-8f151f86cce7" />
 
 - **Global Search:** Finds matches across Vendors, Descriptions, or even specific Amounts.
-> **[<img width="756" height="110" alt="image" src="https://github.com/user-attachments/assets/ca49c1be-ab09-4e8f-815e-c3231550c365" />]**
+> <img width="756" height="110" alt="image" src="https://github.com/user-attachments/assets/ca49c1be-ab09-4e8f-815e-c3231550c365" />
 
 ---
 
@@ -57,7 +54,8 @@ Advanced logic to slice your data by Month, Year, or a specific keyword.
 4. **Sign in** with your name and email to start your session!
 
 ---
-#### *Created by Arsema Yifter - for Java Capstone Project-1*
-#### *Contacts  email: MeleyMM88@gmail.com*
+#### Created by **_Arsema Yifter_** 
+ - for Java Capstone Project-1
+#### Contacts  email: _MeleyMM88@gmail.com_
 
 
