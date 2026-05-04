@@ -53,9 +53,10 @@ Clean, table-style displays of your history. All entries are shown from **Newest
 ### ✦ Report & Global Search
 Advanced logic to slice your data by Month, Year, or a specific keyword.
 - **Month/Year Filters:** Logic-based filtering using `LocalDate`.
-- **Global Search:** Finds matches across Vendors, Descriptions, or even specific Amounts.
 > **[<img width="753" height="326" alt="image" src="https://github.com/user-attachments/assets/95bfa0d7-a16e-44cb-9dae-8f151f86cce7" />
 ]**
+
+- **Global Search:** Finds matches across Vendors, Descriptions, or even specific Amounts.
 > **[<img width="756" height="110" alt="image" src="https://github.com/user-attachments/assets/ca49c1be-ab09-4e8f-815e-c3231550c365" />]**
 
 ---
@@ -68,12 +69,12 @@ Advanced logic to slice your data by Month, Year, or a specific keyword.
 
 ### ㅡ> How to Run
 1. Open the project in your IDE (IntelliJ).
-2. Ensure the `transactions.csv` is located in the root project folder.
-3. Run the `App.java` file.
-4. Sign in with your name and email to start your session!
+2. Save the `transactions.csv` file in the root project folder.
+3. Run the `App.java` program.
+4. **Sign in** with your name and email to start your session!
 
 ---
-*Created by Arsema Yifter - for Java Capstone Project-1*
-*Contacts  email: MeleyMM88@gmail.com*
+#### *Created by Arsema Yifter - for Java Capstone Project-1*
+#### *Contacts  email: MeleyMM88@gmail.com*
 
 
