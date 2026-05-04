@@ -1,5 +1,5 @@
 # 📘 BitBOOK 📘
-###Your Trusted Accounting Ledger
+Your Trusted Accounting Ledger
 
 BitBOOK is a Java console-based ledger application designed to help users track their financial health with precision. Whether you're adding a quick deposit or searching for a specific payment, BitBook keeps your data organized and persisted in a clean CSV format.
 
