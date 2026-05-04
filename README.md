@@ -1,34 +1,17 @@
 # 📘 BitBOOK 📘
 Your Trusted Accounting Ledger
 
-BitBOOK is a Java console-based ledger application designed to help users track their financial health with precision. Whether you're adding a quick deposit or searching for a specific payment, BitBook keeps your data organized and persisted in a clean CSV format.
+**BitBOOK** is a Java console-based ledger application designed to help users track their finances. Whether you're adding a quick deposit or searching for a specific payment, **BitBOOK** keeps your data organized and safe in a clean CSV format.
 
 ### ❖ Application Flow Chart
-This diagram shows how to navigate through the different screens of the app:
+This diagram shows how to navigate through the different screens and the structure of the app:
 
-[HOME SCREEN]
-   │
-   ├── (D) ──► [ADD DEPOSIT] ──────┐
-   │             │                 │ (Loop/Confirm)
-   │             └── (H/X) ────────┴─► Home or Exit
-   │
-   ├── (P) ──► [ADD PAYMENT] ──────┐
-   │             │                 │ (Loop/Confirm)
-   │             └── (H/X) ────────┴─► Home or Exit
-   │
-   └── (L) ──► [LEDGER MENU] ──────┐
-                 │                 │
-                 ├── (A) ──► [ALL ENTRIES]
-                 ├── (D) ──► [DEPOSITS]
-                 ├── (P) ──► [PAYMENTS]
-                 └── (R) ──► [REPORT MENU] ───┐
-                               │              │
-                               ├── (1-3) ──► [DATE FILTERS]
-                               └── (0) ──► [GLOBAL SEARCH]
+<img width="1235" height="583" alt="image" src="https://github.com/user-attachments/assets/efc77749-5ace-4a51-8699-4d59a42ef399" />
+
 
 ---
 
-### ✦ Welcom Screen
+### ✦ Welcome Screen
 Log in to begin navigating BitBook
 > **[<img width="803" height="326" alt="image" src="https://github.com/user-attachments/assets/7eb1eaaa-2380-40bb-9f42-c7f2b8cd07e0" /> ]**
 
