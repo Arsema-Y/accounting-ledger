@@ -27,14 +27,18 @@ This diagram shows how to navigate through the different screens of the app:
 
 ---
 
+## ✦ Welcom Screen
+Log in to begin navigating BitBook
+> **[<img width="717" height="378" alt="image" src="https://github.com/user-attachments/assets/54c999a9-a666-41da-9c19-cae2ff85cbe9" /> ]**
+
 ## ✦ Home Screen
 The main hub of BitBOOK where you choose your starting path.
-> **[<img width="803" height="326" alt="image" src="https://github.com/user-attachments/assets/7eb1eaaa-2380-40bb-9f42-c7f2b8cd07e0" />
-]**
+> **[<img width="803" height="326" alt="image" src="https://github.com/user-attachments/assets/7eb1eaaa-2380-40bb-9f42-c7f2b8cd07e0" /> ]**
 
 ## ✦ Add Deposit / Payment
 Hands-on data entry with automatic date/time stamping (formatted to eliminate those pesky nanoseconds!) and a confirmation loop to ensure accuracy before saving to the file.
-> **[<img width="717" height="378" alt="image" src="https://github.com/user-attachments/assets/54c999a9-a666-41da-9c19-cae2ff85cbe9" />
+> **[
+<img width="767" height="384" alt="image" src="https://github.com/user-attachments/assets/f60fbc22-ebf0-458c-90bc-841e8adc71bd" />
 ]**
 
 ## ✦ Ledger Views
