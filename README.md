@@ -34,7 +34,8 @@ The main hub of BitBOOK where you choose your starting path.
 
 ## ✦ Add Deposit / Payment
 Hands-on data entry with automatic date/time stamping (formatted to eliminate those pesky nanoseconds!) and a confirmation loop to ensure accuracy before saving to the file.
-> **[INSERT SCREENSHOT OF DEPOSIT/PAYMENT ENTRY HERE]**
+> **[<img width="717" height="378" alt="image" src="https://github.com/user-attachments/assets/54c999a9-a666-41da-9c19-cae2ff85cbe9" />
+]**
 
 ## ✦ Ledger Views
 Clean, table-style displays of your history. All entries are shown from **Newest to Oldest** for easy tracking.
