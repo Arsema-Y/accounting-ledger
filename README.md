@@ -1,4 +1,5 @@
-## ⌇ BitBOOK: Your Trusted Accounting Ledger
+# 📘 BitBOOK 📘
+###Your Trusted Accounting Ledger
 
 BitBOOK is a Java console-based ledger application designed to help users track their financial health with precision. Whether you're adding a quick deposit or searching for a specific payment, BitBook keeps your data organized and persisted in a clean CSV format.
 
@@ -56,4 +57,23 @@ Advanced logic to slice your data by Month, Year, or a specific keyword.
 > **[<img width="753" height="326" alt="image" src="https://github.com/user-attachments/assets/95bfa0d7-a16e-44cb-9dae-8f151f86cce7" />
 ]**
 > **[<img width="756" height="110" alt="image" src="https://github.com/user-attachments/assets/ca49c1be-ab09-4e8f-815e-c3231550c365" />]**
+
+---
+
+### 🛠 Technologies Used
+- **Java OOP:** Encapsulation and custom Object-Oriented design for Transactions.
+- **Data Management:** File I/O using `BufferedReader` and `BufferedWriter` with CSV.
+- **Time Management:** `java.time` (LocalDate, LocalTime, DateTimeFormatter) for professional stamping.
+- **User Interface:** Console-based interaction using `Scanner` and dynamic formatting with `.repeat()`.
+
+### ㅡ> How to Run
+1. Open the project in your IDE (IntelliJ).
+2. Ensure the `transactions.csv` is located in the root project folder.
+3. Run the `App.java` file.
+4. Sign in with your name and email to start your session!
+
+---
+*Created by Arsema Yifter - for Java Capstone Project-1*
+*Contacts  email: MeleyMM88@gmail.com*
+
 
