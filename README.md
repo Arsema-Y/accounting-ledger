@@ -46,7 +46,8 @@ Clean, table-style displays of your history. All entries are shown from **Newest
 - **All Entries:** Every single transaction in the file.
 - **Deposits:** Filtered for positive values only.
 - **Payments:** Filtered for negative values (debits).
-> **[INSERT SCREENSHOT OF LEDGER TABLE HERE]**
+> **[<img width="743" height="321" alt="image" src="https://github.com/user-attachments/assets/8f4ce721-357d-4301-ac0b-a716a1362bdd" />
+]**
 
 ## ✦ Report & Global Search
 Advanced logic to slice your data by Month, Year, or a specific keyword.
