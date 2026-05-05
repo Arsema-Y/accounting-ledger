@@ -3,6 +3,7 @@ package com.pluralsight;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 
 public class Transaction {
     //fields
@@ -22,12 +23,12 @@ public class Transaction {
     }
 
     //getters
-    public LocalDate getDate() {
-        return date;
-    }
+    public LocalDate getDate() {return this.date; }
 
-    public LocalTime getTime() {
-        return time;
+    public String getTime() {
+        //formatting Time to avoid nanoseconds
+        DateTimeFormatter timeFormat = DateTimeFormatter.ofPattern("HH:mm:ss");
+        return this.time.format(timeFormat);
     }
 
     public String getDescription() {
@@ -42,12 +43,14 @@ public class Transaction {
         return amount;
     }
 
+    //getters for reports
+    public int getYear() {
+        return this.date.getYear();
+    }
 
-
-
-
-
-
+    public int getMonth() {
+        return this.date.getMonthValue();
+    }
 
 
 }
